@@ -1,0 +1,1 @@
+Open Source Prototyping Tool. Allows users to rapidly prototype their design by easily allowing the change of a capacitance value in a matter of seconds.
