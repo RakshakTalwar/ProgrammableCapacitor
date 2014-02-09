@@ -1,7 +1,5 @@
 Open Source Prototyping Tool. Allows users to rapidly prototype their design by easily allowing the change of a capacitance value in a matter of seconds.
 
--------------------
-
 This capable board gives you 4.29 Billion+ capacitance combinations from the range of 0.1pF - 596uF. 
 
 More information can be found at the links below:
